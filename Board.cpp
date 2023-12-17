@@ -1,11 +1,3 @@
-/*
-Author: Kevin Munoz
-Course: CSCI-135
-Instructor: Tong Yi
-Assignment: Project 3
-
-This program is the game 1024
-*/
 #include <string>
 #include <cctype>
 #include <vector>
